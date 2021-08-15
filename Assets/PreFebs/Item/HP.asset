@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f3b2f1a504e7544a4d4b75f0db3d24, type: 3}
+  m_Name: HP
+  m_EditorClassIdentifier: 
+  itemName: "HP\uC250\uC774\uD06C"
+  itemDesc: "\uCCB4\uB825 20 \uD68C\uBCF5"
+  itemType: 1
+  itemImage: {fileID: 8223251967972322487, guid: dc87631fa24b9714aaf3fa95d92f1515,
+    type: 3}
+  itemPrefab: {fileID: 176404423663581640, guid: 4ae6c4b784691e443a8339476e541670,
+    type: 3}
+  weaponType: 

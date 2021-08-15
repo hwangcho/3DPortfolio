@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f3b2f1a504e7544a4d4b75f0db3d24, type: 3}
+  m_Name: steroid
+  m_EditorClassIdentifier: 
+  itemName: "\uC2A4\uD14C\uB85C\uC774\uB4DC"
+  itemDesc: "\uCD5C\uB300 \uCCB4\uB825,\uC2A4\uD0DC\uBBF8\uB098 \uC99D\uAC00"
+  itemType: 1
+  itemImage: {fileID: 15712364040967408, guid: e721ac13dd3643443ae5a02717b9a729, type: 3}
+  itemPrefab: {fileID: 4048989826761660617, guid: 1f69650fc33fdd34bbd1c5ad52a714bb,
+    type: 3}
+  weaponType: 
